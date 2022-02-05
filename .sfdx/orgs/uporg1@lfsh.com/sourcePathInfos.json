@@ -1,0 +1,63 @@
+{
+  "/Users/q/Projects/Salesforce/unlocked-packages/force-app": {
+    "sourcePath": "/Users/q/Projects/Salesforce/unlocked-packages/force-app",
+    "isDirectory": true,
+    "size": 96,
+    "modifiedTime": 1644037647067,
+    "changeTime": 1644037647067,
+    "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+    "state": "n",
+    "isArtifactRoot": true,
+    "package": "force-app"
+  },
+  "/Users/q/Projects/Salesforce/unlocked-packages/force-app/main": {
+    "sourcePath": "/Users/q/Projects/Salesforce/unlocked-packages/force-app/main",
+    "isDirectory": true,
+    "size": 96,
+    "modifiedTime": 1644037650837,
+    "changeTime": 1644037650837,
+    "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+    "state": "n",
+    "package": "force-app"
+  },
+  "/Users/q/Projects/Salesforce/unlocked-packages/force-app/main/default": {
+    "sourcePath": "/Users/q/Projects/Salesforce/unlocked-packages/force-app/main/default",
+    "isDirectory": true,
+    "size": 128,
+    "modifiedTime": 1644037815138,
+    "changeTime": 1644037815138,
+    "contentHash": "468b8c5791e14bd25304742423e7e1a705ab36fc",
+    "state": "n",
+    "package": "force-app"
+  },
+  "/Users/q/Projects/Salesforce/unlocked-packages/force-app/main/default/classes": {
+    "sourcePath": "/Users/q/Projects/Salesforce/unlocked-packages/force-app/main/default/classes",
+    "isDirectory": true,
+    "size": 64,
+    "modifiedTime": 1644037815138,
+    "changeTime": 1644037815138,
+    "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "state": "n",
+    "package": "force-app"
+  },
+  "/Users/q/Projects/Salesforce/unlocked-packages/force-app/main/default/objects": {
+    "sourcePath": "/Users/q/Projects/Salesforce/unlocked-packages/force-app/main/default/objects",
+    "isDirectory": true,
+    "size": 64,
+    "modifiedTime": 1644037804558,
+    "changeTime": 1644037804558,
+    "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "state": "n",
+    "package": "force-app"
+  },
+  "/Users/q/Projects/Salesforce/unlocked-packages": {
+    "sourcePath": "/Users/q/Projects/Salesforce/unlocked-packages",
+    "isDirectory": true,
+    "size": 288,
+    "modifiedTime": 1644039640710,
+    "changeTime": 1644039640710,
+    "contentHash": "153fa7d5bb244652f38d2eac1547040e359a58f2",
+    "state": "n",
+    "isWorkspace": true
+  }
+}
